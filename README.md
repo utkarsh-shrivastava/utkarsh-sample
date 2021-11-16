@@ -1,0 +1,1 @@
+This readme file is created with a purpose to complete live exercise.
